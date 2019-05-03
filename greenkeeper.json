@@ -1,0 +1,11 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "19 - Webcam Fun/package.json",
+        "20 - Speech Detection/package.json",
+        "21 - Geolocation/package.json"
+      ]
+    }
+  }
+}
